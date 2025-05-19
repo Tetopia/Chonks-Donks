@@ -1890,12 +1890,12 @@ TextureImporter:
       name: Ui-stuff_0
       rect:
         serializedVersion: 2
-        x: 3242
-        y: 596
+        x: 3241
+        y: 606
         width: 343
         height: 343
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1912,12 +1912,12 @@ TextureImporter:
       name: Ui-stuff_1
       rect:
         serializedVersion: 2
-        x: 3661
-        y: 596
+        x: 3662
+        y: 605
         width: 343
         height: 343
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1934,12 +1934,12 @@ TextureImporter:
       name: Ui-stuff_2
       rect:
         serializedVersion: 2
-        x: 3223
-        y: 234
+        x: 3226
+        y: 229
         width: 343
         height: 343
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1957,11 +1957,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 3653
-        y: 233
+        y: 230
         width: 343
         height: 343
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
